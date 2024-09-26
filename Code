@@ -1,0 +1,444 @@
+function start(){
+    for(var i = 0; i < 31; i++) {
+           paint(Color.black);
+           move();
+    }
+    paint(Color.black);
+    turnLeft();
+    move();
+    turnLeft();
+    for(var i = 0; i < 31; i++) {
+           paint(Color.black);
+           move();
+    }
+    paint(Color.black);
+    turnRight();
+    move();
+    turnRight();
+    for(var i = 0; i < 31; i++) {
+           paint(Color.black);
+           move();
+    }
+    paint(Color.black);
+    turnLeft();
+    move();
+    turnLeft();
+    for(var i = 0; i < 31; i++) {
+           paint(Color.black);
+           move();
+    }
+    paint(Color.black);
+    turnRight();
+    move();
+    turnRight();
+    for(var i = 0; i < 31; i++) {
+           paint(Color.black);
+           move();
+    }
+    paint(Color.black);
+    turnLeft();
+    move();
+    turnLeft();
+    for(var i = 0; i < 31; i++) {
+           paint(Color.black);
+           move();
+    }
+    paint(Color.black);
+    turnRight();
+    move();
+    turnRight();
+    for(var i = 0; i < 31; i++) {
+           paint(Color.black);
+           move();
+    }
+    paint(Color.black);
+    turnLeft();
+    move();
+    turnLeft();
+    for(var i = 0; i < 31; i++) {
+           paint(Color.black);
+           move();
+    }
+    paint(Color.black);
+    turnRight();
+    move();
+    turnRight();
+    for(var i = 0; i < 31; i++) {
+           paint(Color.black);
+           move();
+    }
+    paint(Color.black);
+    turnLeft();
+    move();
+    turnLeft();
+    for(var i = 0; i < 31; i++) {
+           paint(Color.black);
+           move();
+    }
+    paint(Color.black);
+    turnRight();
+    move();
+    turnRight();
+    for(var i = 0; i < 31; i++) {
+           paint(Color.black);
+           move();
+    }
+    paint(Color.black);
+    turnLeft();
+    move();
+    turnLeft();
+    for(var i = 0; i < 31; i++) {
+           paint(Color.black);
+           move();
+    }
+    paint(Color.black);
+    turnRight();
+    move();
+    turnRight();
+    for(var i = 0; i < 31; i++) {
+           paint(Color.black);
+           move();
+    }
+    paint(Color.black);
+    turnLeft();
+    move();
+    turnLeft();
+    for(var i = 0; i < 31; i++) {
+           paint(Color.black);
+           move();
+    }
+    paint(Color.black);
+    turnRight();
+    move();
+    turnRight();
+    for(var i = 0; i < 31; i++) {
+           paint(Color.black);
+           move();
+    }
+    paint(Color.black);
+    turnLeft();
+    move();
+    turnLeft();
+    for(var i = 0; i < 31; i++) {
+           paint(Color.black);
+           move();
+    }
+    paint(Color.black);
+    turnRight();
+    move();
+    turnRight();
+    for(var i = 0; i < 31; i++) {
+           paint(Color.black);
+           move();
+    }
+    paint(Color.black);
+    turnLeft();
+    turnLeft();
+    for(var i = 0; i < 31; i++) {
+           move();
+    }
+    turnLeft();
+    for(var i = 0; i < 16; i++) {
+           move();
+    }
+    turnLeft();
+    
+    turnLeft();
+    for(var i = 0; i < 16; i++) {
+           move();
+    }
+    turnRight();
+    moveseven();
+    paint(Color.red);
+    turnLeft();
+    turnLeft();
+    move();
+    paint(Color.red);
+    for(var i = 0; i < 6; i++) {
+           turnLeft();
+           move();
+           turnRight();
+           move();
+           paint(Color.red);
+    }
+    turnLeft();
+    for(var i = 0; i < 4; i++) {
+           move();
+           paint(Color.red);
+    }
+    turnLeft();
+    for(var i = 0; i < 6; i++) {
+           turnRight();
+           move();
+           turnLeft();
+           move();
+           paint(Color.red);
+    }
+    for(var i = 0; i < 5; i++) {
+           move();
+           paint(Color.red);
+    }
+    turnLeft();
+    for(var i = 0; i < 14; i++) {
+           move();
+           paint(Color.red);
+    }
+    otherside();
+    move();
+    move();
+    for(var i = 0; i < 6; i++) {
+           turnLeft();
+           move();
+           paint(Color.red);
+           turnRight();
+           move();
+           paint(Color.red);
+           move();
+    }
+    paint(Color.red);
+    turnLeft();
+    for(var i = 0; i < 4; i++) {
+           move();
+           paint(Color.red);
+    }
+    turnLeft();
+    for(var i = 0; i < 14; i++) {
+           move();
+           paint(Color.red);
+    }
+    turnLeft();
+    turnLeft();
+    move();
+    move();
+    for(var i = 0; i < 6; i++) {
+           turnLeft();
+           move();
+           paint(Color.red);
+           turnRight();
+           move();
+           paint(Color.red);
+           move();
+    }
+    paint(Color.red);
+    turnLeft();
+    for(var i = 0; i < 4; i++) {
+           move();
+           paint(Color.red);
+    }
+    turnLeft();
+    for(var i = 0; i < 15; i++) {
+           move();
+           paint(Color.red);
+    }
+    move();
+    paint(Color.red);
+    turnLeft();
+    move();
+    move();
+    paint(Color.red);
+    turnLeft();
+    for(var i = 0; i < 14; i++) {
+           move();
+           paint(Color.red);
+    }
+    turnLeft();
+    turnLeft();
+    move();
+    for(var i = 0; i < 6; i++) {
+           turnLeft();
+           move();
+           paint(Color.red);
+           turnRight();
+           move();
+           paint(Color.red);
+           move();
+    }
+    turnLeft();
+    move();
+    paint(Color.red);
+    turnRight();
+    move();
+    paint(Color.red);
+    turnLeft();
+    move();
+    paint(Color.red);
+    move();
+    paint(Color.red);
+    move();
+    paint(Color.red);
+    turnLeft();
+    for(var i = 0; i < 14; i++) {
+           move();
+           paint(Color.red);
+    }
+    turnLeft();
+    turnLeft();
+    move();
+    for(var i = 0; i < 6; i++) {
+           turnLeft();
+           move();
+           paint(Color.red);
+           turnRight();
+           move();
+           paint(Color.red);
+           move();
+    }
+    turnLeft();
+    move();
+    paint(Color.red);
+    turnRight();
+    move();
+    paint(Color.red);
+    turnLeft();
+    move();
+    paint(Color.red);
+    move();
+    paint(Color.red);
+    move();
+    paint(Color.red);
+    turnLeft();
+    for(var i = 0; i < 14; i++) {
+           move();
+           paint(Color.red);
+    }
+    turnRight();
+    for(var i = 0; i < 3; i++) {
+           move();
+           paint(Color.red);
+    }
+    move();
+    for(var i = 0; i < 3; i++) {
+           turnRight();
+           move();
+           paint(Color.red);
+           turnLeft();
+           move();
+    }
+    turnRight();
+    for(var i = 0; i < 5; i++) {
+           move();
+           paint(Color.red);
+    }
+    for(var i = 0; i < 4; i++) {
+           move();
+           turnRight();
+           move();
+           paint(Color.red);
+           turnLeft();
+    }
+    turnRight();
+    move();
+    paint(Color.red);
+    turnLeft();
+    move();
+    turnLeft();
+    paint(Color.white);
+    move();
+    paint(Color.white);
+    for(var i = 0; i < 5; i++) {
+           move();
+           turnLeft();
+           move();
+           turnRight();
+           paint(Color.white);
+    }
+    turnLeft();
+    for(var i = 0; i < 4; i++) {
+           move();
+           paint(Color.white);
+    }
+    for(var i = 0; i < 5; i++) {
+           turnLeft();
+           move();
+           turnRight();
+           move();
+           paint(Color.white);
+    }
+    turnLeft();
+    for(var i = 0; i < 4; i++) {
+           move();
+           paint(Color.white);
+    }
+    turnLeft();
+    for(var i = 0; i < 14; i++) {
+           move();
+           paint(Color.white);
+    }
+    turnRight();
+    move();
+    paint(Color.white);
+    move();
+    turnRight();
+    move();
+    paint(Color.white);
+    move();
+    paint(Color.white);
+    for(var i = 0; i < 6; i++) {
+           turnLeft();
+           move();
+           turnRight();
+           move();
+           paint(Color.white);
+           move();
+           paint(Color.white);
+    }
+    turnLeft();
+    for(var i = 0; i < 2; i++) {
+           move();
+           paint(Color.white);
+    }
+    turnLeft();
+    for(var i = 0; i < 14; i++) {
+           move();
+           paint(Color.white);
+    }
+    turnRight();
+    move();
+    paint(Color.white);
+    move();
+    turnRight();
+    move();
+    paint(Color.white);
+    move();
+    paint(Color.white);
+    for(var i = 0; i < 6; i++) {
+           stair();
+           paint(Color.white);
+           move();
+           paint(Color.white);
+    }
+    turnLeft();
+    for(var i = 0; i < 2; i++) {
+           move();
+           paint(Color.white);
+    }
+    turnLeft();
+    for(var i = 0; i < 14; i++) {
+           move();
+           paint(Color.white);
+    }
+    move();
+    paint(Color.white);
+}
+//Use the stair function to repeat the like action of climbing stairs during the 
+function stair(){
+    turnLeft();
+    move();
+    turnRight();
+    move();
+}
+//Action of seven times is simplified through the sevenmove funsction.
+function moveseven(){
+    move();
+    move();
+    move();
+    move();
+    move();
+    move();
+    move();
+}
+//Expresses an action that turns 180 degrees.
+function otherside(){
+    turnLeft();
+    turnLeft();
+}
